@@ -8,7 +8,7 @@ https://monosnap.com/file/kt4PSYfnYmaWFWV8ibQKdyYKc6iL2n
 
 node index.js --action get --id 5
 
-https://monosnap.com/file/kt4PSYfnYmaWFWV8ibQKdyYKc6iL2n
+https://monosnap.com/file/nf6qnY2lh5exKZFxIlZLjpLeBiK0EI
 
 # Добавялем контакт
 
